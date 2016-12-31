@@ -519,7 +519,7 @@ the screen capture to SDI/HDMI in this mode.</source>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/ColorPicker.qml" line="61"/>
         <source>Please choose a color</source>
-        <translation>請選擇一種顏色</translation>
+        <translation>請選擇一種色彩</translation>
     </message>
     <message>
         <location filename="../src/qml/modules/Shotcut/Controls/ColorPicker.qml" line="84"/>
@@ -537,12 +537,12 @@ the screen capture to SDI/HDMI in this mode.</source>
     <message>
         <location filename="../src/widgets/colorproducerwidget.ui" line="26"/>
         <source>Color</source>
-        <translation>顏色</translation>
+        <translation>色彩</translation>
     </message>
     <message>
         <location filename="../src/widgets/colorproducerwidget.ui" line="41"/>
         <source>Color...</source>
-        <translation>顏色…</translation>
+        <translation>色彩…</translation>
     </message>
     <message>
         <location filename="../src/widgets/colorproducerwidget.ui" line="54"/>
@@ -880,7 +880,7 @@ the screen capture to SDI/HDMI in this mode.</source>
     <message>
         <location filename="../src/docks/encodedock.ui" line="165"/>
         <source>From</source>
-        <translation>來</translation>
+        <translation>來源</translation>
     </message>
     <message>
         <location filename="../src/docks/encodedock.ui" line="265"/>
@@ -2207,7 +2207,7 @@ Do you want to save your changes?</source>
     <message>
         <location filename="../src/widgets/isingwidget.ui" line="26"/>
         <source>Ising Model</source>
-        <translation>易辛模型</translation>
+        <translation>易辛 (Ising) 模型</translation>
     </message>
     <message>
         <location filename="../src/widgets/isingwidget.ui" line="41"/>
@@ -2353,7 +2353,7 @@ the list. This does not stop a currently running job. Right-
     <message>
         <location filename="../src/widgets/lissajouswidget.ui" line="26"/>
         <source>Lissajous</source>
-        <translation>利薩茹 (Lissajous)</translation>
+        <translation>利薩如 (Lissajous) 圖形</translation>
     </message>
     <message>
         <location filename="../src/widgets/lissajouswidget.ui" line="41"/>
@@ -3905,13 +3905,13 @@ p, li { white-space: pre-wrap; }
         <location filename="../src/openotherdialog.cpp" line="85"/>
         <location filename="../src/openotherdialog.cpp" line="151"/>
         <source>Lissajous</source>
-        <translation>利薩如圖形</translation>
+        <translation>利薩如</translation>
     </message>
     <message>
         <location filename="../src/openotherdialog.cpp" line="89"/>
         <location filename="../src/openotherdialog.cpp" line="153"/>
         <source>Plasma</source>
-        <translation>Plasma</translation>
+        <translation>電漿</translation>
     </message>
     <message>
         <location filename="../src/openotherdialog.cpp" line="93"/>
@@ -5857,7 +5857,7 @@ the screen capture to SDI/HDMI in this mode.</source>
     <message>
         <location filename="../src/qml/filters/invert/meta.qml" line="6"/>
         <source>Invert Colors</source>
-        <translation>反轉顏色</translation>
+        <translation>反轉色彩</translation>
     </message>
     <message>
         <location filename="../src/qml/filters/sepia/meta.qml" line="6"/>
@@ -6280,7 +6280,7 @@ the screen capture to SDI/HDMI in this mode.</source>
     <message>
         <location filename="../src/qml/htmleditor/text_shadow.qml" line="126"/>
         <source>Please choose a color</source>
-        <translation>請選擇一種顏色</translation>
+        <translation>請選擇一種色彩</translation>
     </message>
 </context>
 <context>
